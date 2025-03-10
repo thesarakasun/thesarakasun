@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thesara Subasinghe</h1>
 <h3 align="center">IT Undergraduate | Fullstack developer</h3>
 
-- 🔭 🔭 I’m currently working on **Docker containerization** to improve scalability and deployment efficiency.
+- 🔭 I’m currently working on **Docker containerization** to improve scalability and deployment efficiency.
 
 - 🌱 I’m currently learning **Cloud Services**
 
