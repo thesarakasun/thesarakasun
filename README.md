@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thesara Subasinghe</h1>
 <h3 align="center">IT Undergraduate | Fullstack developer</h3>
 
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Cloud Services**
 
-- 📫 Reach me via **thesarak03@gmail.com**
+- 📫 How to reach me **thesarak03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
