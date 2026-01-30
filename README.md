@@ -8,7 +8,7 @@ Hi there 👋<br> I'm a curious software developer passionate about exploring em
          width="52" height="40" alt="LinkedIn" />
   </a>
 
-  <a href="thesarak03@gmail.com">
+  <a href="mailto:thesarak03@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="52" height="40" alt="Gmail" />
   </a>
