@@ -3,10 +3,22 @@
 Hi there 👋<br> I'm a curious software developer passionate about exploring emerging tech and turning ideas into reality.
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://www.linkedin.com/in/thesaraks/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="thesarak03@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/16462286/thesara-subasinghe">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"
+         width="52" height="40" alt="Stack Overflow" />
+  </a>
 </div>
+
 
 ## Languages and Tools
 
