@@ -13,10 +13,20 @@ Hi there 👋<br> I'm a curious software developer passionate about exploring em
          width="52" height="40" alt="Gmail" />
   </a>
 
+  <a href="https://medium.com/@thesarak">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+   
+  </a>
+
+  <a href="https://gitlab.com/thesarakasun">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  </a>
+
   <a href="https://stackoverflow.com/users/16462286/thesara-subasinghe">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"
          width="52" height="40" alt="Stack Overflow" />
   </a>
+  
 </div>
 
 
@@ -40,5 +50,7 @@ Hi there 👋<br> I'm a curious software developer passionate about exploring em
 
 ## GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=thesarakasun&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thesarakasun&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
