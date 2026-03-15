@@ -50,7 +50,5 @@ Hi there 👋<br> I'm a curious software developer passionate about exploring em
 
 ## GitHub Stats
 
-<div >
-  <img src="https://streak-stats.demolab.com?user=thesarakasun&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=thesarakasun&theme=dark&hide_border=false)<br/>
 
